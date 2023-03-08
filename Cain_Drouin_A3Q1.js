@@ -41,7 +41,6 @@ function draw() {
 function addToolBox(x, y) {
   push();
 
-  
   translate(x, y);
   fill("red");
   rect(10, 50, 50, 25);
